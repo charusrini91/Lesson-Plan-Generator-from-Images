@@ -1,0 +1,59 @@
+{
+  "arduino": {
+    "Module": "Arduino Basics and Motor Control",
+    "Objectives": [
+      "Understand the structure and functioning of Arduino boards",
+      "Learn to control LEDs and motors using code"
+    ],
+    "Activities": [
+      "Set up Arduino IDE and connect board",
+      "Write and upload LED blink program",
+      "Connect a servo motor and control motion via code"
+    ]
+  },
+  "sensor": {
+    "Module": "Sensor Integration and Data Reading",
+    "Objectives": [
+      "Identify types of sensors (IR, ultrasonic, temperature)",
+      "Collect and process data from sensors"
+    ],
+    "Activities": [
+      "Connect ultrasonic sensor to Arduino",
+      "Read distance data and display on serial monitor"
+    ]
+  },
+  "robot": {
+    "Module": "Building a Simple Robot",
+    "Objectives": [
+      "Understand mechanical and electronic components of a robot",
+      "Integrate motion and obstacle detection"
+    ],
+    "Activities": [
+      "Assemble robot chassis",
+      "Program forward and backward motion",
+      "Implement obstacle avoidance"
+    ]
+  },
+  "ai": {
+    "Module": "Introduction to Artificial Intelligence in Robotics",
+    "Objectives": [
+      "Learn basic AI concepts for robotics",
+      "Understand how AI enables decision-making in robots"
+    ],
+    "Activities": [
+      "Use pre-trained AI model for object detection",
+      "Discuss real-world AI applications in robotics"
+    ]
+  },
+  "drone": {
+    "Module": "Drone Technology and Control",
+    "Objectives": [
+      "Understand aerodynamics principles",
+      "Learn drone components and flight control basics"
+    ],
+    "Activities": [
+      "Simulate drone flight path using software",
+      "Hands-on control with safe indoor demo"
+    ]
+  }
+}
